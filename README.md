@@ -1,14 +1,10 @@
 # Project Title
 
 ## 1. Project Description
-State your app in a nutshell, or one-sentence pitch. Give some elaboration on what the core features are.  
-This browser based web application to ... 
+This is a hiking application, that provides almost the same function as all trails, such as: listing all the hikes, user rating, user post reviews and so on.
 
 ## 2. Names of Contributors
-List team members and/or short bio's here... 
-* ...
-* ...
-* ...
+* Jiahong Xu
 	
 ## 3. Technologies and Resources Used
 List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
@@ -18,11 +14,10 @@ List technologies (with version numbers), API's, icons, fonts, images, media or 
 * ...
 
 ## 4. Complete setup/installion/usage
-State what a user needs to do when they come to your project.  How do others start using your code or application?
-Here are the steps ...
-* ...
-* ...
-* ...
+* git clone the repo
+* use your firebase keys
+* live server it
+* done
 
 ## 5. Known Bugs and Limitations
 Here are some known bugs:
@@ -32,9 +27,7 @@ Here are some known bugs:
 
 ## 6. Features for Future
 What we'd like to build in the future:
-* ...
-* ...
-* ...
+* I think we can integrate the map API inside the application.
 	
 ## 7. Contents of Folder
 Content of the project folder:
